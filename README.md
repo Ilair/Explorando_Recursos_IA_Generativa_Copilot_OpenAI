@@ -36,7 +36,7 @@ Os modelos transformadores possuem dois componentes principais:
 
 Esse processo envolve a **tokenização do texto**, convertendo palavras em tokens numéricos que passam por camadas de atenção, permitindo à IA gerar respostas precisas.  
 
-![Transformadores](https://source.unsplash.com/800x400/?deep,learning)  
+![Transformadores](https://github.com/Ilair/Explorando_Recursos_IA_Generativa_Copilot_OpenAI/blob/main/img01.jpg?raw=true)  
 
 ---
 
@@ -47,13 +47,13 @@ O processo de tokenização é essencial para os LLMs e ocorre em duas etapas:
 1. **Tokenização:** separação do texto em pequenas unidades chamadas tokens.  
 2. **Incorporações:** conversão dos tokens em vetores numéricos que capturam seus significados.  
 
-![Tokenização](https://source.unsplash.com/800x400/?data,science)  
+![Tokenização](https://github.com/Ilair/Explorando_Recursos_IA_Generativa_Copilot_OpenAI/blob/main/img02.jpg?raw=true)  
 
 ### Atenção e Relacionamento Entre Tokens  
 
 A técnica de **atenção** analisa a relação entre tokens, permitindo que a IA gere respostas mais naturais e contextualmente relevantes.  
 
-![Atenção](https://source.unsplash.com/800x400/?ai,technology)  
+![Atenção](https://github.com/Ilair/Explorando_Recursos_IA_Generativa_Copilot_OpenAI/blob/main/img03.jpg?raw=true)  
 
 ---
 
@@ -144,7 +144,7 @@ As **quatro fases essenciais** desse processo incluem:
 3. **Mitigação:** aplicação de correções e melhorias.  
 4. **Operação:** monitoramento contínuo para garantir o uso seguro.  
 
-![IA Responsável](https://source.unsplash.com/800x400/?ethics,ai)  
+![IA Responsável](https://github.com/Ilair/Explorando_Recursos_IA_Generativa_Copilot_OpenAI/blob/main/img04.jpg?raw=true)  
 
 ---
 
