@@ -14,7 +14,6 @@ A **IA Generativa** é uma vertente que cria conteúdos originais e tem diversas
 - **Geração de código:** suporte ao desenvolvimento e automação de tarefas.  
 - **Criação de imagens:** produção de ilustrações a partir de descrições fornecidas pelos usuários.  
 
-![IA Generativa](https://source.unsplash.com/800x400/?artificial,intelligence)  
 
 ---
 
@@ -62,8 +61,7 @@ A técnica de **atenção** analisa a relação entre tokens, permitindo que a I
 Os **copilotos** são assistentes baseados em IA generativa que ajudam os usuários a executar tarefas de forma mais eficiente. Eles podem ser integrados a aplicativos para otimizar fluxos de trabalho e fornecer sugestões inteligentes.  
 
 Além disso, os copilotos interagem com **LLMs**, enviando comandos e retornando respostas personalizadas.  
-
-![Copiloto IA](https://source.unsplash.com/800x400/?automation,robot)  
+ 
 
 ---
 
@@ -73,9 +71,7 @@ A **engenharia de prompt** consiste na formulação de comandos mais precisos pa
 
 - Uso de linguagem objetiva e bem definida.  
 - Inclusão de exemplos para guiar o modelo.  
-- Ajuste de parâmetros para garantir maior precisão nas respostas.  
-
-![Engenharia de Prompts](https://source.unsplash.com/800x400/?communication,writing)  
+- Ajuste de parâmetros para garantir maior precisão nas respostas. 
 
 ---
 
@@ -97,9 +93,7 @@ Seus principais recursos incluem:
 Os desenvolvedores podem acessar os modelos do Azure OpenAI por meio de:  
 - **Azure AI Studio**  
 - **API REST**  
-- **SDKs compatíveis com a CLI do Azure**  
-
-![Azure OpenAI](https://source.unsplash.com/800x400/?cloud,computing)  
+- **SDKs compatíveis com a CLI do Azure**   
 
 ---
 
@@ -111,9 +105,7 @@ Os desenvolvedores podem acessar os modelos do Azure OpenAI por meio de:
 
 ### **Playgrounds**  
 - Ferramenta interativa para testar modelos sem necessidade de programação.  
-- Configuração de assistentes para personalizar o comportamento da IA.  
-
-![Playground IA](https://source.unsplash.com/800x400/?tech,experiment)  
+- Configuração de assistentes para personalizar o comportamento da IA.   
 
 ---
 
@@ -128,9 +120,7 @@ Os modelos do Azure OpenAI são amplamente utilizados para:
 Os modelos de IA generativa permitem:  
 - Criar imagens personalizadas em diferentes estilos.  
 - Editar e modificar imagens existentes.  
-- Gerar variações de imagens com base em um exemplo original.  
-
-![DALL-E IA](https://source.unsplash.com/800x400/?ai,art)  
+- Gerar variações de imagens com base em um exemplo original.   
 
 ---
 
